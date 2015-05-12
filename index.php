@@ -27,86 +27,53 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
                 <script src='js/jquery.validate.min.js'></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
+
         <section id="blueBar">
         	<div class="container">
                 <div class="bluesectionText">
-            	   <h1>talk to an e-commerce specialist</h1> 
+            	   <h1>Find your place on the internet with ErieCommerce</h1> 
                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum velit justo, eget.</p> 
                 </div>         	
             </div>
         </section><!-- end blue section -->
-            <div class="row">
-                <div class="col-lg-6 homeimgLeft" style="height:50px; background-color: red;">
+
+        <div class="row"> <!--Beginning of Tier One-->
+                <div class="col-lg-6 homeimgLeft">
+                    <img src="img/homepageimg1.jpg" class="img-responsive">
                 </div>
-                <div class="col-lg-6" style="height:50px; background-color: red;">
+                <div class="col-lg-6 homemidRight" style="height:596px; background-color: #ffffff;">
+                    <h1>Building your online store...</h1>
+                    <p>Nullam accumsan nisi ut nunc sodales facilisis ac fringilla sapien. Pellentesque eleifend sem efficitur sem efficitur dignissim. Aliquam consequat pharetra vestibulum. Phasellus venenatis sem sit amet posuere faucibus. In hac habitasse platea dictumst. Nunc sit amet rhoncus tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis dignissim consectetur urna, a pellentesque nulla aliquet id. Vivamus tempus justo sit amet pellentesque finibus. Etiam dignissim sollicitudin metus, maximus vestibulum erat tincidunt in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis dignissim consectetur urna, a pellentesque nulla aliquet id. Vivamus tempus justo sit amet pellentesque finibus. Etiam dignissim sollicitudin metus, maximus vestibulum erat tincidunt in.</p>
+                    <button class="btn btn-success">LEARN MORE <i class="icon-chevron-up icon-rotate-90"></i></button>
                 </div>
-            </div>
-        <section>
-            <div class="container">
+        </div> <!--End of Tier One-->
 
-            </div>
-        </section><!-- end section -->
-
-        <section id="leadership">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-10 col-sm-offset-1">
-                         <h2 class="text-center">This Month's Featured Customers</h2>
-                        <p class="text-center">Each month we choose a few of our customers to feature. It's our little way of saying THANK YOU to each and every one of you.</p>
-                            <div class="row text-center caseLogos">
-                                <div class="col-sm-4 smallHeading"> 
-                                    <img src="img/folio_rbd.jpg" alt="Reclaimed Barn Direct">                            
-                                </div>
-                                <div class="col-sm-4 smallHeading">
-                                    <img src="img/folio_kelleybros.jpg" alt="Kelley Bros">  
-                                </div>
-                                <div class="col-sm-4 smallHeading">
-                                    <img src="img/folio_plyler.jpg" alt="Plyler">
-                                </div>
-                            </div>
-                    </div>
+        <div class="row"> <!--Beginning of Tier Two-->
+                <div class="col-lg-6 homemidRight" style="height:596px; background-color: #ffffff;">
+                    <h1>Marketing your products...</h1>
+                    <p>Nullam accumsan nisi ut nunc sodales facilisis ac fringilla sapien. Pellentesque eleifend sem efficitur sem efficitur dignissim. Aliquam consequat pharetra vestibulum. Phasellus venenatis sem sit amet posuere faucibus. In hac habitasse platea dictumst. Nunc sit amet rhoncus tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis dignissim consectetur urna, a pellentesque nulla aliquet id. Vivamus tempus justo sit amet pellentesque finibus. Etiam dignissim sollicitudin metus, maximus vestibulum erat tincidunt in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis dignissim consectetur urna, a pellentesque nulla aliquet id. Vivamus tempus justo sit amet pellentesque finibus. Etiam dignissim sollicitudin metus, maximus vestibulum erat tincidunt in.</p>
+                    <button class="btn btn-success">LEARN MORE <i class="icon-chevron-up icon-rotate-90"></i></button>
                 </div>
-            </div>
-        </section><!-- end leadership section -->
-
-        <section id="workataglance" class="gray-back">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">CONTACT US</h2>
-                        <p class="text-center">Request a proposal or ask us a question.</p>
-                            <div class="row">
-                                <div class="col-sm-5">
-                                    
-                                    <form id="contactForm" action="php/thankyou.php" method="post" role="form">
-                                        <?php include "php/contact-form.php";?> 
-                                        
-                                        <input type="hidden" name="form_submitted" value="Contact Us Form">
-                                    </form>
-                                    
-                                </div>
-                                <div class="col-sm-7">
-                                    <h4><b>Address:</b> <p>2820 West 23rd St #103, Erie, PA 16506</p></h4>
-                                    <h4><b>Phone:</b> <p>1-877-858-2797</p></h4>  
-                                </div>
-                            </div>
-                    </div>
+                <div class="col-lg-6 homeimgLeft">
+                    <img src="img/homepageimg2.jpg" class="img-responsive">
                 </div>
-            </div>
-        </section><!--  end our process section -->
+        </div> <!--End of Tier Two-->
 
-        <section id="navMesix" class="gray-back">
+        <section id="blueBar">
             <div class="container">
+                <div class="bluesectionText">
+                   <h1>When your ready to talk, we’re a just click away!</h1> 
+                   <p>Give us a call or send us a message.</p> 
+                </div>          
+            </div>
+        </section><!-- end blue section -->
 
-
-<div class="row">
-                
-                    <div id="mc-ttl-serv-forms" class="col-xs-12">
-                        <h1>talk to an e-commerce specialist</h1>
-                    </div>
+        <section id="formSection">
+            <div class="container">
+                <div class="bluesectionText">
                     <div id="mcselect" class="col-xs-12">
                         <div class="mc-slct-service">
-                            <span>What Service Would You Like To Talk About</span>
+                            <span>What captures your interest?</span>
                             <a href="#" id="mc-show-serv" class="glyphicon glyphicon-chevron-down"></a>
                         </div>
                         <ul>
@@ -125,41 +92,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                         
                     </div>
-                </div> 
-
-
-
-                <div class="row">
-                    <div class="col-sm-5 col-sm-offset-1 text-center">
-                        <div class="hovergalleryTwo">
-                        <h2>STAY CONNECTED</h2>
-                        <a href="https://twitter.com/myriadcore" target="_blank"><img src="img/twitter_green.png" alt="" width="50px" height="50px"></a>
-                        <a href="https://www.facebook.com/MyriadCore" target="_blank"><img src="img/facebook_green.png" alt="" width="50px" height="50px"></a>
-                        <a href="http://www.linkedin.com/company/2935125?trk=prof-exp-company-name" target="_blank"><img src="img/linkedin_green.png" alt="" width="50px" height="50px"></a>
-                        <a href="https://plus.google.com/u/0/+Myriadcore/posts" target="_blank"><img src="img/google_green.png" alt="" width="50px" height="50px"></a>
-                        </div>
-                        <div>
-                           <a href="http://www.bestwebdesignagencies.com/rankings-of-best-e-commerce-design-companies" target="_blank"><img src="../img/bestwebdesignbadgenew.png"></a>
-                        </div> 
-                    </div>
-                    <div class="col-sm-5 text-center">
-                        <h2>ADWORDS NEWSLETTER</h2>
-                        <p>Receive the latest Adwords best practices each month</p>
-                        <!-- Begin MailChimp Signup Form -->
-                        <div id="mc_embed_signup">
-                        <form action="http://myriadcore.us8.list-manage1.com/subscribe/post?u=b766662aac51f9e4ae15708d4&amp;id=5de5b14a93" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                            
-                            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                            <div style="position: absolute; left: -5000px;"><input type="text" name="b_b766662aac51f9e4ae15708d4_5de5b14a93" value=""></div>
-                            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-                        </form>
-                        </div>
-                        <!--End mc_embed_signup-->
-                    </div>
-                </div>
+                </div>          
             </div>
-        </section><!-- end contact section -->
+        </section><!-- end form section -->
+
+        <section id="footerArea"><!--Beginning of Footer-->
+            <div class="container">
+                <div class="bluesectionText">
+                   <h1>Find your place on the internet with ErieCommerce</h1> 
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum velit justo, eget.</p> 
+                </div>          
+            </div>
+        </section><!--End of Footer-->
+
         
         <a class="mc-go-to-top" href="#"></a>
 

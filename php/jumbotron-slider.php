@@ -17,9 +17,12 @@
     <div class="row">
         <div class="col-sm-10 col-sm-offset-1 bannerBox">
             <h1>Finally, you can sell</br>
-              your <i>stuff</i> online.</h1>
+              your <i>stuff</i> online.</br>
+                    <button class="btn btn-success">LEARN MORE <i class="icon-chevron-up icon-rotate-90"></i></button>
+
+            </h1>
             <div class="slideButton">
-              
+
             </div>       
         </div>
     </div>
@@ -33,7 +36,7 @@
             <h1>Finally, you can sell</br>
               your <i>stuff</i> online.</h1>
             <div class="slideButton">
-              
+                    <button class="btn btn-success">LEARN MORE <i class="icon-chevron-up icon-rotate-90"></i></button>
             </div>       
         </div>
     </div>
@@ -48,7 +51,7 @@
             <h1>Finally, you can sell</br>
               your <i>stuff</i> online.</h1>
             <div class="slideButton">
-              
+                    <button class="btn btn-success">LEARN MORE <i class="icon-chevron-up icon-rotate-90"></i></button>
             </div>       
         </div>
     </div>
