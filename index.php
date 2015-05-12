@@ -23,84 +23,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<?php include 'php/jumbotron-slider.php'; ?> 
         </section><!--  end jumbotron section -->
 
-            <div class="col-xs-12 pointerMoneybrown">             
-            </div>
-
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
                 <script src='js/jquery.validate.min.js'></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
-        <section id="ourgoogleservices">
+        <section id="blueBar">
         	<div class="container">
-            	<div class="row">
-                
-                	<div id="mc-ttl-serv-forms" class="col-xs-12">
-                    	<h1>talk to an e-commerce specialist</h1>
-                    </div>
-                	<div id="mcselect" class="col-xs-12">
-                    	<div class="mc-slct-service">
-                        	<span>What Service Would You Like To Talk About</span>
-                            <a href="#" id="mc-show-serv" class="glyphicon glyphicon-chevron-down"></a>
-                        </div>
-                        <ul>
-                        	<li><a href="#" data-tog="#pan1" data-formid="Affordable Ecommerce Solutions" >Affordable e-commerce Solutions</a></li>
-                            <li><a href="#" data-tog="#pan1" data-formid="Adwords Management for Online Retailers" >Adwords Management for Online Retailers</a></li>
-                            <li><a href="#" data-tog="#pan1" data-formid="Large Ecommerce Customization" >Large e-commerce Installation</a></li>
-                        </ul>
-                        
-                        <div id="pan1" class="mc-pan col-xs-12">
-							<?php include 'php/fp_contact_numone.php'; ?>
-                        </div>
-                        
-                        <div id="thanks" class="col-xs-12" style=" text-align:center; font-weight:600; color:rgba(33,128,0,1.00); display:none;">
-                        	<h1>Thanks for showing interest, we have received your message and we will contact you shortly.</h1>
-                            <h1>While you're waiting, why don’t you read more about what we do.</h1>
-                        </div>
-                        
-                    </div>
-                </div>            	
+                <div class="bluesectionText">
+            	   <h1>talk to an e-commerce specialist</h1> 
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum velit justo, eget.</p> 
+                </div>         	
             </div>
-
-        </section><!-- end about section -->
-
-
-            <div class="col-xs-12 pointerWhite"> 
+        </section><!-- end blue section -->
+            <div class="row">
+                <div class="col-lg-6 homeimgLeft" style="height:50px; background-color: red;">
+                </div>
+                <div class="col-lg-6" style="height:50px; background-color: red;">
+                </div>
             </div>
-
-        <section id="ourecommerceservices" class="gray-back">
+        <section>
             <div class="container">
 
-                <div class="row topTier">
-                    <div class="col-sm-10 col-sm-offset-1">
-                            <div class="row text-center">
-                                <div class="col-lg-6 smallHeading newhover">
-                                    <img src="img/googlemarketingservices.png"  alt="">
-                                    <div class="effect">
-                                        <h2>Google Marketing Services</h2>
-                                        <p>As a Badged Google Partner, we offer professional services and are held accountable for our performance.</p>
-                                            <br />
-                                                <!--<a class="box1" href="#">Read More.</a>-->
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 smallHeading newhoverTwo">
-                                    <img src="img/ecommerceservices.png"  alt="">
-                                    <div class="effect">
-                                        <h2>E-Commerce Solutions</h2>
-                                        <p>We're robust in our e-commerce experience and dedicated to your success.</p>
-                                            <br />
-                                                <!--<a class="box1" href="#">Read More.</a>-->
-                                    </div>
-                                </div>
-                            </div>
-                    </div>
-                </div>
-
-
             </div>
-        </section><!-- end e-commerce services section -->
-
-            <div class="col-xs-12 pointerLightgray">
-            </div>
+        </section><!-- end section -->
 
         <section id="leadership">
             <div class="container">
@@ -123,9 +68,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
         </section><!-- end leadership section -->
-
-            <div class="col-xs-12 pointerWhite">
-            </div>
 
         <section id="workataglance" class="gray-back">
             <div class="container">
@@ -153,11 +95,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         </section><!--  end our process section -->
 
-            <div class="col-xs-12 pointerLightgray"> 
-            </div>
-
         <section id="navMesix" class="gray-back">
             <div class="container">
+
+
+<div class="row">
+                
+                    <div id="mc-ttl-serv-forms" class="col-xs-12">
+                        <h1>talk to an e-commerce specialist</h1>
+                    </div>
+                    <div id="mcselect" class="col-xs-12">
+                        <div class="mc-slct-service">
+                            <span>What Service Would You Like To Talk About</span>
+                            <a href="#" id="mc-show-serv" class="glyphicon glyphicon-chevron-down"></a>
+                        </div>
+                        <ul>
+                            <li><a href="#" data-tog="#pan1" data-formid="Affordable Ecommerce Solutions" >Affordable e-commerce Solutions</a></li>
+                            <li><a href="#" data-tog="#pan1" data-formid="Adwords Management for Online Retailers" >Adwords Management for Online Retailers</a></li>
+                            <li><a href="#" data-tog="#pan1" data-formid="Large Ecommerce Customization" >Large e-commerce Installation</a></li>
+                        </ul>
+                        
+                        <div id="pan1" class="mc-pan col-xs-12">
+                            <?php include 'php/fp_contact_numone.php'; ?>
+                        </div>
+                        
+                        <div id="thanks" class="col-xs-12" style=" text-align:center; font-weight:600; color:rgba(33,128,0,1.00); display:none;">
+                            <h1>Thanks for showing interest, we have received your message and we will contact you shortly.</h1>
+                            <h1>While you're waiting, why don’t you read more about what we do.</h1>
+                        </div>
+                        
+                    </div>
+                </div> 
+
+
+
                 <div class="row">
                     <div class="col-sm-5 col-sm-offset-1 text-center">
                         <div class="hovergalleryTwo">

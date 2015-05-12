@@ -16,10 +16,10 @@
       <div class="carousel-caption">
     <div class="row">
         <div class="col-sm-10 col-sm-offset-1 bannerBox">
-            <h1>Build An Affordable</br>
-             E-Commerce Website</h1>
-            <div class="bannerPar">
-           <h4><img src="bestwebdesignbadgenew.png"> Best E-Commerce Design Companies - March 2015</h4>
+            <h1>Finally, you can sell</br>
+              your <i>stuff</i> online.</h1>
+            <div class="slideButton">
+              
             </div>       
         </div>
     </div>
@@ -30,10 +30,11 @@
       <div class="carousel-caption">
     <div class="row">
         <div class="col-sm-10 col-sm-offset-1 bannerBox">
-            <h1>Market Your Store's Products Online</h1>
-            <div class="bannerPar">
-            <h4><img src="../img/bestwebdesignbadgenew.png"> Best E-Commerce Design Companies - March 2015</h4>
-            </div>      
+            <h1>Finally, you can sell</br>
+              your <i>stuff</i> online.</h1>
+            <div class="slideButton">
+              
+            </div>       
         </div>
     </div>
       </div>
@@ -44,15 +45,11 @@
       <div class="carousel-caption">
     <div class="row">
         <div class="col-sm-10 col-sm-offset-1 bannerBox">
-            <h1>Third Title</h1>
-            <div class="bannerPar">
-            <h4>Tagline goes here...</h4>
-
-            <h4><img src="../img/bestwebdesignbadgenew.png"> Best E-Commerce Design Companies - March 2015</h4>
-
-            </div>
-
-       
+            <h1>Finally, you can sell</br>
+              your <i>stuff</i> online.</h1>
+            <div class="slideButton">
+              
+            </div>       
         </div>
     </div>
       </div>
