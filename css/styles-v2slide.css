@@ -188,7 +188,7 @@ p {color:#7b7b7b; !important;}
 
 /* go to top btn */
 
-.mc-go-to-top {position:fixed; bottom:3em; right:3em; padding:2.4em; background-color: transparent; color:#fff; font-weight:600; background-image:url(../img/back-to-top.png); background-position:center center; background-size:contain; opacity:.7; display:none}
+.mc-go-to-top {position:fixed; bottom:3em; right:6em; padding:2.4em; background-color: transparent; color:#fff; font-weight:600; background-image:url(../img/back-to-top.png); background-position:center center; background-size:contain; opacity:.7; display:none}
 
 .mc-go-to-top:hover {text-decoration:none; opacity:1;}
 
@@ -231,6 +231,9 @@ p {color:#7b7b7b; !important;}
 }
 #footerArea{
   background-color: #dadada;
+}
+#footerAreatwo{
+  background-color: #9B9B9B; 
 }
 /*-------------------------------- End of New Changes to ErieCommerce Design------------------------------------*/
 

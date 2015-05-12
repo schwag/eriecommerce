@@ -98,10 +98,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <section id="footerArea"><!--Beginning of Footer-->
             <div class="container">
-                <div class="bluesectionText">
-                   <h1>Find your place on the internet with ErieCommerce</h1> 
-                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum velit justo, eget.</p> 
-                </div>          
+                <div class="col-lg-6">
+                   MAP GOES HERE
+                </div>   
+                <div class="col-lg-6">
+                   <h1>Contact us today!</h1> 
+                   <ul>
+                    <li>Phone: 814-000-000</li>
+                    <li>Email: sales@eriecommerce.com</li>
+                   </ul>
+                </div>        
+            </div>
+        </section><!--End of Footer-->
+
+        <section id="footerAreatwo"><!--Beginning of Footer-->
+            <div class="container">
+                <div class="col-lg-6">
+                   MAP GOES HERE
+                </div>   
+                <div class="col-lg-6">
+                   MAP GOES HERE
+                </div>        
             </div>
         </section><!--End of Footer-->
 
