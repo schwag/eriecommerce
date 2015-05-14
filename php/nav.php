@@ -20,11 +20,11 @@
 			<ul id="main-nav-mc" class="nav navbar-nav navbar-left">
 
 				
-                <li><a href="http://mcsit.es/eriecommerce/" id="take-me-home" class="googlePop"><span class="glyphicon glyphicon-home btn-wrap-mc"></span>&nbsp;&nbsp;&nbsp;Home</a></li>
-                <li><a href="http://mcsit.es/eriecommerce/build-a-store.php" id="popGoogle" class="googlePop" rel="popover"
+                <li><a href="#" id="take-me-home" class="googlePop"><span class="glyphicon glyphicon-home btn-wrap-mc"></span>&nbsp;&nbsp;&nbsp;Home</a></li>
+                <li><a href="#" id="popGoogle" class="googlePop" rel="popover"
    				data-placement="bottom" data-content="Visit Our Build Your Store Page" data-trigger="hover"><span class="glyphicon glyphicon-certificate btn-wrap-mc"></span>&nbsp;&nbsp;&nbsp;Build Your Store</a></li>
 
-				<li><a href="http://mcsit.es/eriecommerce/market-products.php" id="popEcommerce" class="ecommercePop" rel="popover"
+				<li><a href="#" id="popEcommerce" class="ecommercePop" rel="popover"
    				data-placement="bottom" data-content="Visit Our Market Your Products Page" data-trigger="hover"><span class="glyphicon glyphicon-usd btn-wrap-mc"></span>&nbsp;&nbsp;&nbsp;Market Your Products</a></li>
 
 			</ul>
