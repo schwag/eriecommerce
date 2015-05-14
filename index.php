@@ -99,7 +99,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <section id="footerArea"><!--Beginning of Footer-->
             <div class="container">
                 <div class="col-lg-6">
-                   MAP GOES HERE
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47354.09867322786!2d-80.070947!3d42.11536945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882d7fe13db2f71f%3A0x89f3ae2e121d5b0a!2sErie%2C+PA!5e0!3m2!1sen!2sus!4v1431627912362" width="100%" height="450" frameborder="0" style="border:0"></iframe>
                 </div>   
                 <div class="col-lg-6">
                    <h1>Contact us today!</h1> 
